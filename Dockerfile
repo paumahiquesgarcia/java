@@ -1,4 +1,4 @@
-FROM operjdk:8-jre-alpine
+FROM openjdk:8-jre-alpine
 
 EXPOSE 8080
 
